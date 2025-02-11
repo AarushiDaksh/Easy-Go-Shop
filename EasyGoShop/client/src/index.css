@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+*{
+  padding: 5px;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'var(--font-sans)';
+  background-color: black;
+  color:#ffffff;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
